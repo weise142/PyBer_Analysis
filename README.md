@@ -3,7 +3,7 @@
 The purpose of this analysis if to explore PyBer ride data in order to gain an understanding of ridership and fares based on the type of city which PyBer operates. In the analysis, we sort the data by city type; Urban, Suburban, and Rural, and create visualizations to better understand the data so PyBer executives can make better operating decisions.
 ## Results
 After aggregating the data, the summary of each city type illustrates the differences in ridership and fare:
-[! This is an image)(https://github.com/weise142/PyBer_Analysis/blob/main/Fare%20Summary%20PyBer.PNG)
+[! This is an image](https://github.com/weise142/PyBer_Analysis/blob/main/Fare%20Summary%20PyBer.PNG)
 [! This is an image](https://github.com/weise142/PyBer_Analysis/blob/main/Resources/Pyber_fare_summary.png)
 - Urban Cities have the highest ridership demand at 1,625 rides, while Rural Cities have the lowest demand at 125 rides
 - Urban Cities have almost 5x the drivers as Suburban Cities and over 30 times the drivers as Rural Cities
